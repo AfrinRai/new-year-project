@@ -154,3 +154,68 @@ body{
     border-radius: 16px;
     text-align: center;
 }
+
+.new-offer-caption{
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.heading-soon{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 22px;
+}
+.new-offer-para{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 393px;
+    margin-top: 0;
+}
+.paragraph-container{
+    margin-top: 20px;
+}
+.div-ellipse{
+    /* width: 463px;
+    height: 463px; */
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 30px;
+    margin-right:100px ;
+    margin-left: 60px;
+
+}
+.heading-year{
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    border-bottom: 15px;
+}
+.corner-para{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    width: 276px;
+    font-weight: 400;  
+    border-bottom: 40px; 
+    border-top: 0;
+}
+.corner-pic{
+    width: 140px;
+    height: 140px;
+    border-top: 0;
+}
+.new-offer-div-container{
+    display: flex;
+}
+.new-offer-section{
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+}
