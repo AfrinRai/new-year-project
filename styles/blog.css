@@ -36,8 +36,10 @@ body{
 
 /* Main function styling */
 
-.offer1{
+.font-inter{
     font-family: 'Inter', sans-serif;
+}
+.offer1{
     text-align: center;
 }
 .div-1st-offer{
@@ -68,5 +70,52 @@ body{
     width: 802.9px;
     height: 500px;
     margin-top: 48px;
-    margin-bottom: 0;
+    margin-bottom: 120px;
+}
+
+.midnight-party-container{
+    border-radius: 16px;
+    background-image: url('../Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center ;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+    width: 1320px;
+    height: 600px;
+}
+#div-main-midnight{
+    display: flex;
+}
+#div-midnight-container{  
+    padding: 125px 0px 300px 160px;
+    color: #FFF;
+}
+#midnight-party-heading{
+    font-size: 64px;
+    font-weight: 900;
+    width: 642px;
+    margin-bottom: 24px;
+}
+#midnight-description{
+    font-size: 18px;
+    font-weight: 400;
+    width: 697px;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
+#midnight-button{
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFF;
+    border: none;
+    background: none;
+    margin-left: 25px; 
+}
+#image2024{
+    width: 319.83px;
+    height: 464.662px;
+    padding: 70px 140px 70px 0px;
+    margin-left: 90px;
 }
