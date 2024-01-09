@@ -179,6 +179,7 @@ body{
 }
 .paragraph-container{
     margin-top: 20px;
+    padding-top: 70px;
 }
 .div-ellipse{
     /* width: 463px;
@@ -186,7 +187,7 @@ body{
     border-radius: 463px;
     border: 15px solid #F00;
     padding: 30px;
-    margin-right:100px ;
+    margin-right:120px ;
     margin-left: 60px;
 
 }
@@ -218,4 +219,7 @@ body{
     width: 1600px;
     height: 7335px;
     background: #FFF;
+}
+.corner-padding{
+    margin-top: 0px;
 }
