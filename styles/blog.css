@@ -324,8 +324,59 @@ body{
     height: 616px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
+    margin-bottom: 120px;
 }
 
 .footer-div1{
     display: flex;
+}
+.big-building{
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 120px 450px 100px 140px;
+    width: 375px;
+    margin-bottom: 0;
+}
+.phone-number{
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.website{
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0;
+    text-decoration: none;
+}
+.small-div1{
+    padding: 120px 0px 400px 0;
+}
+.footer-div2{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 630px 0px 640px;
+}
+.footer-div3{
+    display: flex;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.reserve{
+    margin-right: 880px;
+    padding-left: 90px;
+}
+.footer-section{
+    width: 1600px;
+    /* height: 609px; */
+    background: #070211;
+    margin-left: -140px;
+    background-size: cover;
+   
 }
