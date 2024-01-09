@@ -216,14 +216,9 @@ body{
     display: flex;
 }
 .new-offer-section{
-    /* width: 1600px;
-    height: 7335px; */
     background: #FFF;
     margin-bottom: 120px;
 }
-/* .corner-padding{
-    margin-top: 0px;
-} */
 
 .best-gift-caption{
     color: #F00;
@@ -250,6 +245,9 @@ body{
 }
 .rectangle-image{
     margin-bottom: 120px;  
+}
+.image-div img:hover{
+    background-color: rgb(222, 21, 21);
 }
 .image-div{
     display: flex;
@@ -316,8 +314,6 @@ body{
 }
 .email-div{
     display: flex;
-    /* width: 648px; */
-
 }
 .email-section{
     width: 1320px;
@@ -374,9 +370,7 @@ body{
 }
 .footer-section{
     width: 1600px;
-    /* height: 609px; */
     background: #070211;
     margin-left: -140px;
     background-size: cover;
-   
 }
