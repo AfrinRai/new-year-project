@@ -161,7 +161,7 @@ body{
     font-size: 24px;
     font-weight: 500;
     margin-bottom: 15px;
-}
+} 
 .heading-soon{
     color: #070211;
     font-size: 48px;
@@ -216,10 +216,116 @@ body{
     display: flex;
 }
 .new-offer-section{
-    width: 1600px;
-    height: 7335px;
+    /* width: 1600px;
+    height: 7335px; */
     background: #FFF;
+    margin-bottom: 120px;
 }
-.corner-padding{
+/* .corner-padding{
     margin-top: 0px;
+} */
+
+.best-gift-caption{
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+.portfolio-heading{
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 22px;
+}
+.portfolio-paragraph{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 48px;
+    margin-right: 425px;
+}
+.rectangle-image{
+    margin-bottom: 120px;  
+}
+.image-div{
+    display: flex;
+}
+.image{
+    margin: 24px 24px 24px 0;
+}
+
+.email-pic{
+    padding: 70px 585px 0 585px;
+    margin-bottom: 40px;
+}
+.newsletter-subs{
+    color: #070211;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    padding: -20px 305px 285px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.newsletter-paragraph{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 896px;
+    padding-left: 210px;
+    padding-right: 210px;
+    margin-bottom: 45px;
+}
+.email-class{
+    width: 148px;
+    height: 72px;
+    border-radius: 50px 0 0 50px;
+    background: #FFF;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 25px 0px 225px 300px;
+    padding-left: 50px;
+    padding-right: 300px;
+    border: none;
+}
+.btn-subscribe{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    margin-bottom: 0px;
+    margin-left: 0;
+    margin-top: 26px;
+}
+.email-div{
+    display: flex;
+    /* width: 648px; */
+
+}
+.email-section{
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.footer-div1{
+    display: flex;
 }
