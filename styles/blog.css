@@ -3,10 +3,11 @@ body{
 }
 .header{
     border-radius: 16px;
-    background-image: url('../Banner\ Image.png'), linear-gradient(#070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background: linear-gradient(#070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../Banner\ Image.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center ;
+    font-family: Merriweather;
     justify-content: center;
     display: flex;
     margin: 0;
@@ -26,6 +27,7 @@ body{
     font-weight: 400;
     width: 260px;
     margin-bottom: 16px;
+    padding-left: 180px;
 }
 #heading{
     margin-top: 0;
@@ -75,7 +77,7 @@ body{
 
 .midnight-party-container{
     border-radius: 16px;
-    background-image: url('../Vectorrr.png');
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../Vectorrr.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center ;
